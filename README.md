@@ -1,7 +1,7 @@
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.  
-This project is a powerful RESTfull API-related to the integration of express and mysqs.
+This project is a powerful RESTfull API-related to the integration of express and mysql.
 
 ### What is this repository for? ###
 
@@ -31,7 +31,8 @@ This project is a powerful RESTfull API-related to the integration of express an
 
 ### Configuration
 
-* [Env]()
+* [Env](https://github.com/ttgint/Node-RestfullApiTemplate/blob/master/server/config/env.js)
+* [Db](https://github.com/ttgint/Node-RestfullApiTemplate/blob/master/server/config/db.js)
 
 ### Installation
 
